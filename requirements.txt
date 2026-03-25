@@ -1,4 +1,5 @@
 streamlit
-vnstock
 pandas
 yfinance
+requests
+vnstock
